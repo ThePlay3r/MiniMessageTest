@@ -1,0 +1,9 @@
+name: MiniMessageTest
+version: ${project.version}
+main: me.pljr.minimessagetest.MiniMessageTest
+api-version: 1.13
+authors: [9hx]
+description: MiniMessageTest
+commands:
+  minimessagetest:
+    description: Command for testing the parsinf of MiniMessage.
